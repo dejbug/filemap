@@ -1,2 +1,1 @@
-# filemap
-filemap
+# ([`filemap`](https://github.com/dejbug/filemap)) [![Build status](https://ci.appveyor.com/api/projects/status/3ysc051nko7wpjjs?svg=true&passingText=ok)](https://ci.appveyor.com/project/dejbug/filemap)
